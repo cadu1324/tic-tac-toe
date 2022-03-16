@@ -6,6 +6,6 @@
 
 To run the project:
 
-- Cloe the repository
+- Clone the repository
 - Run "npm start" on the main folder
 - Have fun
