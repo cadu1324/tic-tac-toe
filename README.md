@@ -1,6 +1,11 @@
 # Tic-Tac-Toe 
-  This is a tic-tac-toe developed in react js 
-##To play the game 
-*Clone the repoository 
-*Run *npm start* 
-*Have fun
+
+* Developed with react js, in order to train language fundamentals.
+
+----------------------------------------------------------------------------------------
+
+To run the project:
+
+- Cloe the repository
+- Run "npm start" on the main folder
+- Have fun
